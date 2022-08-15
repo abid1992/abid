@@ -3,7 +3,7 @@ This is a simple demonstration application used in the [Jenkins: The Definitive 
 ## Building the project
 ## Building the project
 ## Building the project
-## Running the acceptance tests ####unning the acceptance tests 1234567
+## Running the acceptance tests ####unning the acceptance tests
 ## Running the acceptance tests ####unning the acceptance tests
 ## Test which repot is working
 
